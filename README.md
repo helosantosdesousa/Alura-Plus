@@ -1,2 +1,4 @@
-# Alura-Plus
-Projeto do curso HTML e CSS: praticando HTML/CSS da Alura :) 
+# Alura Plus 💻
+
+## Linguagens
+html e css
